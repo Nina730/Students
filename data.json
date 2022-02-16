@@ -1,0 +1,94 @@
+{
+  "students": [
+    {
+      "NID": "1234567",
+      "name": "Test",
+      "surname": "Test",
+      "grade": "10",
+      "profession": "PROGRAMUESE",
+      "education": "UNIVERSITY OF TIRANA",
+      "password": "yArftftftf4",
+      "courses": [
+        {
+          "name": "Arte te vecanta",
+          "subscribed": false,
+          "subscribedDate": "",
+          "otherInfo": ""
+        },
+        {
+          "name": "Arte jo te vecanta",
+          "subscribed": true,
+          "subscribedDate": "16/2/2022",
+          "otherInfo": ""
+        },
+        {
+          "name": "Arte te thjeshta",
+          "subscribed": true,
+          "subscribedDate": "16/2/2022",
+          "otherInfo": ""
+        }
+      ],
+      "id": 1
+    },
+    {
+      "NID": "234562",
+      "name": "John",
+      "surname": "Smith",
+      "grade": "10",
+      "profession": "PROGRAMUES",
+      "education": "UNIVERSITY OF TIRANA",
+      "password": "ewQggvgvgv3",
+      "courses": [
+        {
+          "name": "Arte te vecanta",
+          "subscribed": true,
+          "subscribedDate": "16/2/2022",
+          "otherInfo": ""
+        },
+        {
+          "name": "Arte jo te vecanta",
+          "subscribed": false,
+          "subscribedDate": "",
+          "otherInfo": ""
+        },
+        {
+          "name": "Arte te thjeshta",
+          "subscribed": false,
+          "subscribedDate": "",
+          "otherInfo": ""
+        }
+      ],
+      "id": 2
+    },
+    {
+      "NID": "N34445",
+      "name": "Student",
+      "surname": "Student",
+      "grade": "8",
+      "profession": "PROGRAMUES",
+      "education": "UNIVERSITY OF TIRANA",
+      "password": "Student123",
+      "courses": [
+        {
+          "name": "Arte te vecanta",
+          "subscribed": true,
+          "subscribedDate": "16/2/2022",
+          "otherInfo": ""
+        },
+        {
+          "name": "Arte jo te vecanta",
+          "subscribed": false,
+          "subscribedDate": "",
+          "otherInfo": ""
+        },
+        {
+          "name": "Arte te thjeshta",
+          "subscribed": false,
+          "subscribedDate": "",
+          "otherInfo": ""
+        }
+      ],
+      "id": 3
+    }
+  ]
+}
