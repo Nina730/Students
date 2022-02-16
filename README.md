@@ -6,6 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm i antd`
+
+Install the ANT DESIGN library used for this project.
+
+### `npm i axios`
+
 ### `npm start`
 
 Runs the app in the development mode.\
